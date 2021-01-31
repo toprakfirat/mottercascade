@@ -1,0 +1,4 @@
+# mottercascade
+
+Click [here](
+https://www.researchgate.net/profile/Adilson_Motter/publication/8268372_Cascade_Control_and_Defense_in_Complex_Networks/links/5410696c0cf2f2b29a4108cc/Cascade-Control-and-Defense-in-Complex-Networks.pdf?_sg%5B0%5D=ScIgX8O03rHZkAhfiq8sfcZJQBWgAvjKHdFkG4vvjYS9ogdORZMuXmu-OXqirR-YXcogcZ42TTBYDkKja5HZ5w.oZnHM9B7yKhFMX0q7dmL-tbxxsxlAxCNsYyZ7cPBJmICaojXhXUq8P_V21Nuwd1fNpZs5ZOaL8-lZc48erw41A&_sg%5B1%5D=qhoiFA2A6YvuFGZqn_M6VGlMC-igtpkrVkxrnoYFn5fpSDJkRGMErlN8wk2xZapjXCtKUW-JZyQc0lL0I2LUTmYgxkq_Fc9fQ12hwRpWa_SZ.oZnHM9B7yKhFMX0q7dmL-tbxxsxlAxCNsYyZ7cPBJmICaojXhXUq8P_V21Nuwd1fNpZs5ZOaL8-lZc48erw41A&_iepl=m) for the paper. 
